@@ -42,10 +42,12 @@ This project automates API testing for [Daily Finance](https://dailyfinance.road
    
 - **Report of Allure Overview:**
   
-  ![allure_report_restAssured](https://github.com/user-attachments/assets/6da5187d-d03c-44f8-af86-728fe3f9ca01)
+  ![allure_report_restAssured](https://github.com/user-attachments/assets/3c4bceaf-c496-4272-a3f9-4c480f1cc87c)
+
 
 - **Report of Allure Behavior:**
   
-  ![behavior_allure_report_restAssured](https://github.com/user-attachments/assets/cb71a915-b589-463b-92fd-d776d13ea79d)
+  ![behavior_allure_report_restAssured](https://github.com/user-attachments/assets/a02b6a04-3938-43ff-bc9b-d5fe1848a1ec)
+
 
   
