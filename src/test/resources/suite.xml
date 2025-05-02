@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="FinancialAPITestSuite">
+    <test name="TestAll">
+        <classes>
+            <class name="testRunner.FinancialTestRunner"/>
+        </classes>
+    </test>
+</suite>
