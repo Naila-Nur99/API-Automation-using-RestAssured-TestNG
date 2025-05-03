@@ -32,7 +32,7 @@ This project automates API testing for [Daily Finance](https://dailyfinance.road
 
 ## Test Case Link
 
-   - [Positive & Negative Test cases](https://docs.google.com/spreadsheets/d/1N9j8EQozoovMP1AyqIf5ZnT4ZPaIuxjO/edit?usp=sharing&ouid=105680020578634715377&rtpof=true&sd=true) 
+   - [Positive & Negative Test cases]() 
 
 ## Record of Full Automation 
 
