@@ -45,7 +45,7 @@ public class FinancialController {
 
         return given().contentType("application/json").
                 header("Authorization","Bearer "+prop.getProperty("token"))
-                .when().get("/api/user/users?id="+id);
+                .when().get("/api/user/"+ userid);
     }
 
     public Response editUserInfo(String userid, UserModel userModel){
