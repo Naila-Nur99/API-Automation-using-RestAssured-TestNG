@@ -28,26 +28,30 @@ This project automates API testing for [Daily Finance](https://dailyfinance.road
 
 ## Postman Collection 
 
-   - [Documentation Link](https://documenter.getpostman.com/view/42658049/2sB2j1hCNe)
+   - [Click here for Documentation Link](https://documenter.getpostman.com/view/42658049/2sB2j1hCNe)
 
 ## Test Case Link
 
-   - [Positive & Negative Test cases](https://docs.google.com/spreadsheets/d/1dr7RvuN9tX1pcBNIJOhe7lCzDD8CR_44/edit?usp=drive_link&ouid=105680020578634715377&rtpof=true&sd=true) 
+   - [Click here for Positive & Negative Test cases](https://docs.google.com/spreadsheets/d/1xBSsKMGgTqXt0HYeFdB1LvCDnyBnZk6J/edit?usp=sharing&ouid=105680020578634715377&rtpof=true&sd=true) 
 
 ## Record of Full Automation 
 
-   - [Automation Record](https://drive.google.com/file/d/1-1heTJl4hmBBld0EiTpk2_6uCFj1ofe2/view?usp=sharing)
+   - [Click here to see Automation Record](https://drive.google.com/file/d/1-1heTJl4hmBBld0EiTpk2_6uCFj1ofe2/view?usp=sharing)
 
 ## Allure Report 
    
 - **Report of Allure Overview:**
+
+  <img width="744" alt="task-1" src="https://github.com/user-attachments/assets/d951427a-567a-41d0-84ca-cd8401438945" />
   
-  ![allure_report_restAssured](https://github.com/user-attachments/assets/3c4bceaf-c496-4272-a3f9-4c480f1cc87c)
+
 
 
 - **Report of Allure Behavior:**
+
+  <img width="744" alt="task-1" src="https://github.com/user-attachments/assets/8d162278-89d5-418e-a953-61ed33e274a4" />
   
-  ![behavior_allure_report_restAssured](https://github.com/user-attachments/assets/a02b6a04-3938-43ff-bc9b-d5fe1848a1ec)
+
 
 
   
